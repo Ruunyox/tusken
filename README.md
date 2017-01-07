@@ -17,6 +17,6 @@ Follow standard procedure for installing .bdf files. MacOS users can readily ins
 
 ### License
 
-The original "lime" font is maintained under a GNU Public License V2. This modification is mainatained under an MIT License. Either way, feel free to use, distribute, and/or modify this font at your leisure. 
+The original "lime" font is maintained under a GNU Public License V2. This modification is maintained under an MIT License. Either way, feel free to use, distribute, and/or modify this font at your leisure. 
 
 
