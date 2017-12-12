@@ -5,7 +5,7 @@
 Tusken is a small bitmap font that is based off of a modified version of artwiz-aleczapka's "lime" font (artwiz-aleczapka.sourceforge.net). Some of the numerals have been modified, and subtle serifs and other embellishments have been added to the alphabet characters.
 
 <p align="center">
-<img src="repertoire.png" width=500px />
+<img src="repertoire.png" width=400px />
 </p> 
 
 ### Installation
