@@ -13,7 +13,7 @@ Tusken is a small bitmap font that is based off of a modified version of artwiz-
 Follow standard procedure for installing .bdf files. MacOS users can readily install the .dfont file for immediate use. 
 
 <p align="center">
-<img src="Raider.png">
+<img src="Raider.png" width=400px />
 </p>
 
 ### License
